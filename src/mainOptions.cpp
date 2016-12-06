@@ -7,7 +7,7 @@
 #include "apstring.h"
 #include "apvector.h"
 #include "dirChecker.h"
-#include "logCheckerNewVersion.h"
+#include "logChecker.h"
 #include "windows.h"
 #include "cleanup.h"
 
