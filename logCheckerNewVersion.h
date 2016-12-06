@@ -1,0 +1,12 @@
+void CheckFinishNormal(const char * logFileForChecker, bool newRando);
+void CheckFinishVeteran(const char * logFileForChecker, bool newRando);
+void CheckFinishEasy(const char * logFileForChecker, bool newRando);
+void CheckFinishHypermode(const char * logFileForChecker, bool newRando);
+void resetFlags();
+void printList();
+bool returnCompletableVeteran();
+bool returnCompletableNormal();
+bool returnCompletableEasy();
+bool returnCompletableHypermode();
+apstring returnSeed();
+apstring returnExceptions();
