@@ -5,7 +5,7 @@ This repo comes with a compiled version of the software.
 ----------------
 
 
-Compiling Instructions
+Compiling Instructions:
 
 Requires Mingw-w64
 
