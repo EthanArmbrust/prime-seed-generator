@@ -1,6 +1,8 @@
-# prime-seed-generator
+# Metroid Prime Seed Generator
 
+This repo comes with a compiled version of the software.
 
+----------------
 
 
 Compiling Instructions
